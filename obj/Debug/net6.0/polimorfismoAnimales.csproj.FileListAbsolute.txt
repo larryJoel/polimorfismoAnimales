@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\bin\Debug\net6.0\polimorfismoAnimales.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\bin\Debug\net6.0\polimorfismoAnimales.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\bin\Debug\net6.0\polimorfismoAnimales.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\bin\Debug\net6.0\polimorfismoAnimales.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\bin\Debug\net6.0\polimorfismoAnimales.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\refint\polimorfismoAnimales.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\polimorfismoAnimales.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\polimorfismoAnimales\obj\Debug\net6.0\ref\polimorfismoAnimales.dll
